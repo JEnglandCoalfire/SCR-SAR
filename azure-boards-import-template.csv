@@ -1,4 +1,4 @@
-Work Item Type,Title,Description,Priority,Effort,Tags
-User Story,"Set up CI/CD pipeline","Configure automated build and deploy pipelines in Azure DevOps.",2,5,"DevOps; Infrastructure"
-Task,"Write unit tests","Add comprehensive unit test coverage for authentication module.",2,3,"Testing"
-Bug,"Fix login redirect error","Users are redirected to home instead of dashboard after login.",1,2,"Hotfix"
+Work Item Type,Title
+User Story,"Set up CI/CD pipeline"
+Task,"Write unit tests"
+Bug,"Fix login redirect error"
